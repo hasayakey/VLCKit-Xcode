@@ -1,0 +1,3 @@
+[submodule "vlckit"]
+	path = vlckit
+	url = https://github.com/videolan/vlckit

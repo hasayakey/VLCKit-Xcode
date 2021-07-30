@@ -48,6 +48,14 @@ playground.xcworkspace
 
 .build/
 
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+DerivedData/
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
 # CocoaPods
 #
 # We recommend against adding the Pods directory to your .gitignore. However
